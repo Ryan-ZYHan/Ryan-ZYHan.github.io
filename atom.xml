@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Ryan-ZYHan.github.io/</id>
+    <title>Fantasy Doer</title>
+    <updated>2022-11-02T11:19:41.177Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Ryan-ZYHan.github.io/"/>
+    <link rel="self" href="https://Ryan-ZYHan.github.io/atom.xml"/>
+    <subtitle>用技术实现幻想</subtitle>
+    <logo>https://Ryan-ZYHan.github.io/images/avatar.png</logo>
+    <icon>https://Ryan-ZYHan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Fantasy Doer</rights>
+    <entry>
+        <title type="html"><![CDATA[新文章测试]]></title>
+        <id>https://Ryan-ZYHan.github.io/post/xin-wen-zhang-ce-shi/</id>
+        <link href="https://Ryan-ZYHan.github.io/post/xin-wen-zhang-ce-shi/">
+        </link>
+        <updated>2022-11-02T11:09:56.000Z</updated>
+        <summary type="html"><![CDATA[<p>写作<br>
+标签</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>写作<br>
+标签</p>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
